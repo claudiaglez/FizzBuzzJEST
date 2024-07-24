@@ -47,7 +47,7 @@ cd FizzBuzzJEST
 npm test
 ```
 
-*And that's all! :star:
+* And that's all! :star:
 
   
 ## 👩‍💻 Author
